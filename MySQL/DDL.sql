@@ -22,3 +22,4 @@ ALTER Table `table` DROP PRIMARY KEY;
 
 -- 删除表
 DROP TABLE IF EXISTS `table`;
+
